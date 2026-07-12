@@ -1,0 +1,3 @@
+*.m3u8 text eol=lf
+*.ts binary
+*.mp4 binary
